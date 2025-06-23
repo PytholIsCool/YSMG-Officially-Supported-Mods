@@ -1,8 +1,24 @@
-[
-  {
-    "name": "YanAPI",
-    "author": "Pythol",
-    "description": "A BepInEx modding API for Yandere Simulator",
-    "url": "https://github.com/PytholIsCool/YanAPI"
-  }
-]
+{
+  "Core": [
+    {
+      "name": "YanAPI",
+      "author": "Pythol",
+      "description": "A BepInEx modding API for Yandere Simulator",
+      "url": "https://github.com/PytholIsCool/YanAPI"
+    }
+  ],
+  "QOL & Improvements": [
+    {
+      "name": "Placeholder 1",
+      "author": "Pythol 1",
+      "description": "Placeholder description 1",
+      "url": "https://github.com/Placeholder/1"
+    },
+    {
+      "name": "Placeholder 2",
+      "author": "Pythol 2",
+      "description": "Placeholder description 2",
+      "url": "https://github.com/Placeholder/2"
+    }
+  ]
+}
