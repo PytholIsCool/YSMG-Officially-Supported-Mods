@@ -11,6 +11,12 @@
       "author": "Pythol",
       "description": "A BepInEx modding API for Yandere Simulator",
       "url": "https://github.com/PytholIsCool/YanAPI/releases/tag/v0.0.1-pre-alpha"
+    },
+    {
+      "name": "Intro Skip",
+      "author": "Pythol",
+      "description": "Skip to the main menu after the resolution scene",
+      "url": "https://github.com/PytholIsCool/IntroSkip/releases/latest"
     }
   ]
 }
