@@ -1,6 +1,12 @@
 {
   "Core": [
     {
+      "name": "BepInEx",
+      "author": "BepInEx",
+      "description": "Required for all (BepInEx) mods to work.",
+      "url": "https://github.com/PytholIsCool/Assets/releases/download/v5.4.23.3/Install.zip"
+    },
+    {
       "name": "YanAPI",
       "author": "Pythol",
       "description": "A BepInEx modding API for Yandere Simulator",
