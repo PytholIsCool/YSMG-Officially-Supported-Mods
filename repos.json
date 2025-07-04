@@ -4,37 +4,7 @@
       "name": "YanAPI",
       "author": "Pythol",
       "description": "A BepInEx modding API for Yandere Simulator",
-      "url": "https://github.com/PytholIsCool/YanAPI/releases/tag/v0.0.1-alpha/Install.zip"
-    },
-    {
-      "name": "YanAPI 2",
-      "author": "Pythol",
-      "description": "A BepInEx modding API for Yandere Simulator",
       "url": "https://github.com/PytholIsCool/YanAPI/releases/download/v0.0.1-alpha/Install.zip"
-    },
-    {
-      "name": "YanAPI 3",
-      "author": "Pythol",
-      "description": "A BepInEx modding API for Yandere Simulator",
-      "url": "https://github.com/PytholIsCool/YanAPI/releases/tag/v0.0.1-alpha"
-    },
-    {
-      "name": "YanAPI 4",
-      "author": "Pythol",
-      "description": "A BepInEx modding API for Yandere Simulator",
-      "url": "https://github.com"
-    },
-    {
-      "name": "YanAPI 5",
-      "author": "Pythol",
-      "description": "A BepInEx modding API for Yandere Simulator",
-      "url": "https://github.com"
-    },
-    {
-      "name": "YanAPI 6",
-      "author": "Pythol",
-      "description": "A BepInEx modding API for Yandere Simulator",
-      "url": "https://github.com"
     }
   ]
 }
